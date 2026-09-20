@@ -5,3 +5,6 @@
 [submodule "rar"]
 	path = rar
 	url = https://github.com/jgaeb/rar
+[submodule "wstats"]
+	path = wstats
+	url = https://github.com/jgaeb/wstats
